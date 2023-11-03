@@ -1,7 +1,7 @@
 [
   {
-    "question": "true",
-    "answer": "bool"
+    "question": "'true'",
+    "answer": "str"
   },
   {
     "question": "false",
