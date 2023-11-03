@@ -1,0 +1,202 @@
+[
+  {
+    "question": "true",
+    "answer": "bool"
+  },
+  {
+    "question": "false",
+    "answer": "bool"
+  },
+  {
+    "question": "{0 ,3 ,8 ,2 ,0}",
+    "answer": "set"
+  },
+  {
+    "question": "{\"key_0\": 6, \"key_1\": 5, \"key_2\": 4}",
+    "answer": "dict"
+  },
+  {
+    "question": "{7 ,9 ,4}",
+    "answer": "set"
+  },
+  {
+    "question": "[7]",
+    "answer": "list"
+  },
+  {
+    "question": "16",
+    "answer": "int"
+  },
+  {
+    "question": "false",
+    "answer": "bool"
+  },
+  {
+    "question": "\"fdg\"",
+    "answer": "str"
+  },
+  {
+    "question": "true",
+    "answer": "bool"
+  },
+  {
+    "question": "[9, 3]",
+    "answer": "list"
+  },
+  {
+    "question": "{2 ,0}",
+    "answer": "set"
+  },
+  {
+    "question": "60.35",
+    "answer": "float"
+  },
+  {
+    "question": "54",
+    "answer": "int"
+  },
+  {
+    "question": "[9]",
+    "answer": "list"
+  },
+  {
+    "question": "-13.46",
+    "answer": "float"
+  },
+  {
+    "question": "-16",
+    "answer": "int"
+  },
+  {
+    "question": "-52",
+    "answer": "int"
+  },
+  {
+    "question": "[10, 9, 4, 10]",
+    "answer": "list"
+  },
+  {
+    "question": "{2 ,9}",
+    "answer": "set"
+  },
+  {
+    "question": "false",
+    "answer": "bool"
+  },
+  {
+    "question": "{\"key_0\": 3, \"key_1\": 2, \"key_2\": 7}",
+    "answer": "dict"
+  },
+  {
+    "question": "(8)",
+    "answer": "tuple"
+  },
+  {
+    "question": "\"irk\"",
+    "answer": "str"
+  },
+  {
+    "question": "{10}",
+    "answer": "set"
+  },
+  {
+    "question": "true",
+    "answer": "bool"
+  },
+  {
+    "question": "\"uohxrnyt\"",
+    "answer": "str"
+  },
+  {
+    "question": "{\"key_0\": 5, \"key_1\": 0, \"key_2\": 2}",
+    "answer": "dict"
+  },
+  {
+    "question": "true",
+    "answer": "bool"
+  },
+  {
+    "question": "\"xttctem\"",
+    "answer": "str"
+  },
+  {
+    "question": "-75.90",
+    "answer": "float"
+  },
+  {
+    "question": "(0, 7, 0)",
+    "answer": "tuple"
+  },
+  {
+    "question": "{8 ,0 ,3 ,10 ,6}",
+    "answer": "set"
+  },
+  {
+    "question": "{9 ,5 ,7 ,6}",
+    "answer": "set"
+  },
+  {
+    "question": "false",
+    "answer": "bool"
+  },
+  {
+    "question": "false",
+    "answer": "bool"
+  },
+  {
+    "question": "{4 ,3 ,1 ,7 ,3}",
+    "answer": "set"
+  },
+  {
+    "question": "{\"key_0\": 3}",
+    "answer": "dict"
+  },
+  {
+    "question": "-33",
+    "answer": "int"
+  },
+  {
+    "question": "false",
+    "answer": "bool"
+  },
+  {
+    "question": "-84.57",
+    "answer": "float"
+  },
+  {
+    "question": "{\"key_0\": 3, \"key_1\": 1}",
+    "answer": "dict"
+  },
+  {
+    "question": "(8, 8, 4, 0)",
+    "answer": "tuple"
+  },
+  {
+    "question": "(5, 5, 5, 4, 2)",
+    "answer": "tuple"
+  },
+  {
+    "question": "32.67",
+    "answer": "float"
+  },
+  {
+    "question": "\"okdojbo\"",
+    "answer": "str"
+  },
+  {
+    "question": "\"egyn musb\"",
+    "answer": "str"
+  },
+  {
+    "question": "{\"key_0\": 5, \"key_1\": 1}",
+    "answer": "dict"
+  },
+  {
+    "question": "[1, 1, 9]",
+    "answer": "list"
+  },
+  {
+    "question": "{1}",
+    "answer": "set"
+  }
+]
